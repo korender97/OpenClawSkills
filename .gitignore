@@ -1,0 +1,24 @@
+# Environments
+.env
+**/.env
+.venv/
+**/.venv/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data / Sensitive
+**/schoolfox_messages.json
+Bettermarks/bettermarks.html
+Bettermarks/bm_dom.html
+
+# OS
+.DS_Store
+Thumbs.db
